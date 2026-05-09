@@ -20,4 +20,4 @@ the dashboard was build using the following
 * file format - pbix for develpment and .png for dashboard preview.
 
 
-Example - https://github.com/Neerajkumar1411/Samsung-Power-BI-analysis/blob/main/Samsung%20Dashboard.png
+Example -[dashboard preview] https://github.com/Neerajkumar1411/Samsung-Power-BI-analysis/blob/main/Samsung%20Dashboard.png
